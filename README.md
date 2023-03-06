@@ -1,1 +1,1 @@
-# Streamer.bot.Actions
+# Streamer.bot.Actions - by Cussa Mitre (TheRuneloreSage)
