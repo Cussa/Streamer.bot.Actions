@@ -49,4 +49,4 @@ var interval = 100;
 
 ## Version history
 
-- v1.0.0 (2023-03-06): innital version.
+- `v1.0.0` (2023-03-06): innital version.
