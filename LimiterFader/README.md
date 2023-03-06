@@ -46,3 +46,7 @@ var interval = 100;
 ![image](https://user-images.githubusercontent.com/912710/223066811-64b3dc02-e728-4908-8c7e-3a92fe7cf51a.png)
 
 5. Start to use it!
+
+## Version history
+
+- v1.0.0 (2023-03-06): innital version.
